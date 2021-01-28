@@ -1,4 +1,4 @@
-# music
+# Music_app
 
 A new Flutter project.
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![video-1611669984](https://user-images.githubusercontent.com/56726653/106127398-34c84d00-6167-11eb-81f4-2b4c06dd1d9c.gif)
